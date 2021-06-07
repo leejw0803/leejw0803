@@ -5,5 +5,5 @@
 #### ☀️  I'm currently working at __🏢  MAROMAV__ <br/>
 #### ✏️  I'm currently learning __Next, TypeScript, NodeJS__ <br/>
 #### 👀  I'm interested in Hiphop, Writing and __*A Better Life*__  💪🏼 <br/>
-#### 😅  These days... I wanna buy a __Apple watch  ⌚️__ <br/>
+#### 😅  These days... I wanna buy an __Apple watch  ⌚️__ <br/>
 
