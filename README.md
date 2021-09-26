@@ -41,19 +41,6 @@
 <br />
 
 <div align="flex-start">
-  <h2>👋🏻 About Me </h2>
-  I'm currently working at 🏢 MAROMAV
-  <br />
-  I'm interested in Hiphop, Writing and A Better Life 💪🏼
-  <br />
-  These days... I wanna buy an Apple watch ⌚️
-</div>
-
-
-<br />
-<br />
-
-<div align="flex-start">
   <h2>📱 Contact </h2>
   <span>
     <a href="https://www.instagram.com/twblne/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
