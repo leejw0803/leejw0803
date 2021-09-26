@@ -31,9 +31,9 @@
 <div align="flex-start">
   <h2>💻 Contribute To </h2>
   <span>
-    <img src="https://img.shields.io/badge/Make Education-ffc847?style=flat-square&logoColor=white&link=https://make.education"/>
-    <img src="https://img.shields.io/badge/Make Ground-3584dF?style=flat-square&logoColor=white&link=https://makeground.net"/>
-    <img src="https://img.shields.io/badge/My Homepage-000000?style=flat-square&logoColor=white&link=https://dudodev.vercel.app"/> 
+    <a href="https://make.education"><img src="https://img.shields.io/badge/Make Education-ffc847?style=flat-square&logoColor=white" /></a>
+    <a href="https://makeground.net"><img src="https://img.shields.io/badge/Make Ground-3584dF?style=flat-square&logoColor=white" /></a>
+    <a href="https://dudodev.vercel.app"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat-square&logoColor=white" /> </a>
   </span>
 </div>
 
@@ -56,8 +56,8 @@
 <div align="flex-start">
   <h2>📱 Contact </h2>
   <span>
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/twblne/"/>
-    <img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwjdd@naver.com"/>
+    <a href="https://www.instagram.com/twblne/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+    <a href="mailto:dlwjdd@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a>
   </span>
 </div>
 
