@@ -31,10 +31,11 @@
 <div align="flex-start">
   <h2>💻 Contribute To </h2>
   <span>
-    <a href="https://make.education"><img src="https://img.shields.io/badge/Make Education-ffc847?style=flat-square&logoColor=white" /></a>
-    <a href="https://makeground.net"><img src="https://img.shields.io/badge/Make Ground-3584dF?style=flat-square&logoColor=white" /></a>
-    <a href="https://dudodev.vercel.app"><img src="https://img.shields.io/badge/My Homepage-000000?style=flat-square&logoColor=white" /> </a>
+    <a href="https://make.education"><img src="https://img.shields.io/badge/Make Education-ffc847?style=for-the-badge&logo=Hack The Box&logoColor=black" /></a>
+    <a href="https://makeground.net"><img src="https://img.shields.io/badge/Make Ground-3584dF?style=for-the-badge&logo=Goodreads&logoColor=white" /></a>
   </span>
+  <h4> My Hompage </h4>
+  <a href="https://dudodev.vercel.app"><img src="https://img.shields.io/badge/My Homepage-ff0000?style=for-the-badge&logo=Tumblr&logoColor=white" /> </a>
 </div>
 
 <br />
@@ -43,8 +44,9 @@
 <div align="flex-start">
   <h2>📱 Contact </h2>
   <span>
-    <a href="https://www.instagram.com/twblne/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-    <a href="mailto:dlwjdd@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a>
+    <a href="https://www.instagram.com/twblne/"><img src="https://img.shields.io/badge/instagram-E4405F?style=social&logo=Instagram&logoColor=black" /></a>
+    <br />
+    <a href="mailto:dlwjdd@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=social&logo=Naver&logoColor=black" /></a>
   </span>
 </div>
 
