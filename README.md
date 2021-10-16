@@ -21,7 +21,6 @@
   <span>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </span>
   
   <h4>📖 Studying </h4>
