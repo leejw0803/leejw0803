@@ -54,7 +54,7 @@
     <br />
     <a href="mailto:dlwjdd@naver.com"><img src="https://img.shields.io/badge/email-03C75A?style=social&logo=Naver&logoColor=black" /></a>
     <br />
-    <a href="https://www.linkedin.com/in/jung-woo-lee-871a091ba/"><img src="https://img.shields.io/badge/email-0A66C2?style=social&logo=LinkedIn&logoColor=black" /></a>
+    <a href="https://www.linkedin.com/in/jung-woo-lee-871a091ba/"><img src="https://img.shields.io/badge/linked In-0A66C2?style=social&logo=LinkedIn&logoColor=black" /></a>
   </span>
 </div>
 
