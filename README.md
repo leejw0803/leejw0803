@@ -38,7 +38,6 @@
   <h2>💻 Contribute To </h2>
   <span>
     <a href="https://make.education"><img src="https://img.shields.io/badge/Make Education-ffc847?style=for-the-badge&logo=Hack The Box&logoColor=black" /></a>
-    <a href="https://makeground.net"><img src="https://img.shields.io/badge/Make Ground-3584dF?style=for-the-badge&logo=Goodreads&logoColor=white" /></a>
   </span>
   <h4> My Hompage </h4>
   <a href="https://twblne-dudo.vercel.app"><img src="https://img.shields.io/badge/My Homepage-ff0000?style=for-the-badge&logo=Tumblr&logoColor=white" /> </a>
