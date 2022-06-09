@@ -1,7 +1,7 @@
 <!-- ![DUDO](https://user-images.githubusercontent.com/55906697/134803285-ec7a2e42-ad65-45c9-b129-0c11efbbb4df.png) -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=400&section=header&text=Lee Jung woo&desc=Front End Developer&fontSize=90&descAlign=72&descAlignY=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=808080&height=700&section=header&text=Lee Jung woo&desc=Front End Developer&fontSize=90&descAlign=71.5&descAlignY=45" width="100%"/>
 </div>
 
 <div align="flex-start">
