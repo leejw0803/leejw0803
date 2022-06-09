@@ -1,10 +1,10 @@
 <!-- ![DUDO](https://user-images.githubusercontent.com/55906697/134803285-ec7a2e42-ad65-45c9-b129-0c11efbbb4df.png) -->
 
 <div display="flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leejw0803&theme=dark&show_icons=true" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=300&section=header&text=Lee Jung woo&desc=Front End Developer&fontSize=90&descAlign=72&descAlignY=30" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=leejw0803&theme=panda&show_icons=true" />
 
 <br />
 
