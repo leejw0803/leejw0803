@@ -2,14 +2,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=808080&height=700&section=header&text=Lee Jung woo&desc=Front End Developer&fontSize=90&descAlign=71.5&descAlignY=45" width="100%"/>
+
 </div>
 
-<div align="flex-start">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=leejw0803&theme=panda&show_icons=true" width="100%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejw0803&theme=panda&layout=compact" width="100%"/>
-  </span>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=leejw0803&theme=panda&show_icons=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejw0803&theme=panda&layout=compact&count_private=true" width="100%" />
 
 <br />
 
