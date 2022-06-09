@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![DUDO](https://user-images.githubusercontent.com/55906697/134803285-ec7a2e42-ad65-45c9-b129-0c11efbbb4df.png)
 
 <br />
