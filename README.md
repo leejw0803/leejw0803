@@ -1,4 +1,10 @@
-![DUDO](https://user-images.githubusercontent.com/55906697/134803285-ec7a2e42-ad65-45c9-b129-0c11efbbb4df.png)
+<!-- ![DUDO](https://user-images.githubusercontent.com/55906697/134803285-ec7a2e42-ad65-45c9-b129-0c11efbbb4df.png) -->
+
+<div display="flex" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leejw0803&theme=dark&show_icons=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=300&section=header&text=Lee Jung woo&desc=Front End Developer&fontSize=90&descAlign=72&descAlignY=30" />
+</div>
+
 
 <br />
 
@@ -40,10 +46,20 @@
 <div align="flex-start">
   <h2>💻 Contribute To </h2>
   <span>
-    <a href="https://make.education"><img src="https://img.shields.io/badge/Make Education-ffc847?style=for-the-badge&logo=Hack The Box&logoColor=black" /></a>
+    <a href="https://trymake.co">
+      <img src="https://img.shields.io/badge/Make-4a2fec?style=for-the-badge&logo=Hack The Box&logoColor=white" />
+    </a>
+    <a href="https://dashboard.trymake.co">
+      <img src="https://img.shields.io/badge/Make Dashboard-ffc847?style=for-the-badge&logo=Hack The Box&logoColor=black" />
+    </a>
+    <a href="https://project.trymake.co">
+      <img src="https://img.shields.io/badge/Make Project-4a2fec?style=for-the-badge&logo=Hack The Box&logoColor=white" />
+    </a>
   </span>
   <h4> My Hompage </h4>
-  <a href="https://twblne-dudo.vercel.app"><img src="https://img.shields.io/badge/My Homepage-ff0000?style=for-the-badge&logo=Tumblr&logoColor=white" /> </a>
+  <a href="https://twblne-dudo.vercel.app">
+    <img src="https://img.shields.io/badge/My Homepage-808080?style=for-the-badge&logo=Tumblr&logoColor=white" />
+  </a>
 </div>
 
 <br />
